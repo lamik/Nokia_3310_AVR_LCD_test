@@ -1,0 +1,1 @@
+Test wyœwietlacza z nokii 3310i
